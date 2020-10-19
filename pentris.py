@@ -454,6 +454,6 @@ def main_menu():
     pygame.quit()
 
 win = pygame.display.set_mode((s_width, s_height))
-pygame.display.set_caption('Tetris')
+pygame.display.set_caption('Pentris')
 
 main_menu()
